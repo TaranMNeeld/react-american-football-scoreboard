@@ -117,6 +117,8 @@
 .homeButtons__fieldGoal,
 .awayButtons__touchdown,
 .awayButtons__fieldGoal {
+  display: flex;
+  flex-direction: column;
   margin: 1rem;
   border-radius: 4px;
 }
